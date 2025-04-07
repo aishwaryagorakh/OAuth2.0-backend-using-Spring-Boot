@@ -13,4 +13,4 @@ public class UserController {
     public Map<String, Object> user(@AuthenticationPrincipal OAuth2User principle) {
         return principle.getAttributes();
     }
-}
+} 
