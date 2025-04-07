@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Spring Boot backend for the OAuth 2.0 application. It handles API requests, user authentication, and authorization processes.&#8203;:contentReference[oaicite:34]{index=34}
+This repository contains the Spring Boot backend for the OAuth 2.0 application. It handles API requests, user authentication, and authorization processes.
 
 ## Features
 
