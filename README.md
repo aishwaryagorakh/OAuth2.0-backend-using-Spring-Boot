@@ -6,16 +6,15 @@ This repository contains the Spring Boot backend for the OAuth 2.0 application. 
 
 ## Features
 
-- **User Authentication:** 
-- **Role-Based Access Control:**
-- **RESTful API Endpoints:** 
-- **OAuth 2.0 Integration:**
-- 
+- **User Authentication** 
+- **Role-Based Access Control**
+- **RESTful API Endpoints** 
+- **OAuth 2.0 Integration**
 ## Technologies Used
 
-- **Spring Boot:** 
-- **Spring Security:** 
-- **Spring Data JPA:** 
+- **Spring Boot** 
+- **Spring Security** 
+- **Spring Data JPA** 
 - **OAuth 2.0:**
 
 
